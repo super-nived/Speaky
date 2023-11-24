@@ -1,0 +1,28 @@
+{
+  "name": "speaky",
+  "version": "1.0.0",
+  "description": "Speaky is a professional voice recognition package designed to empower your applications with seamless voice command integration. Easily create functions that respond to specific voice commands, making user interactions more natural and intuitive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "voice",
+    "recognition",
+    "commands",
+    "speech"
+  ],
+  "author": "super nived",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/speaky.git"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+
+
+
+
+}
